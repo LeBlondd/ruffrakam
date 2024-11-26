@@ -55,7 +55,7 @@ a
 .container
     margin-inline: 20rem
 
-.nav_frontpage
+.nav
     display: flex
     justify-content: center
     align-items: center
@@ -64,19 +64,19 @@ a
     background: black
     color: #f4e7e1
 
-    & a
+    &__lien
         text-decoration: none
         color: #f4e7e1
         font-weight: bold
         font-size: 1.5rem
         transition: all 0.5s ease
 
-    & a:hover
+    &__lien:hover
         text-decoration: underline
         transition: all 0.5s ease
         transform: scale(1.1)
 
-footer
+.footer
     background-image: url(../images/ruff-rakam-background-2.png)
     background-size: cover
     background-position: center
@@ -89,13 +89,13 @@ footer
     flex-direction: column
     gap: 5rem
 
-.links_footer
+.footer__links
     display: flex
     justify-content: center
     align-items: center
     flex-direction: row
     gap: 2rem
 
-    & a
+    &_element
         color: #000000
         font-size: 1.5rem

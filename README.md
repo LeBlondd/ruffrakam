@@ -5,3 +5,7 @@ J'ai enlevé Animate.css, j'ai tout bien rangé dans les dossiers et je m'apprê
 ## 26 Novembre 2024 11h
 
 Passage en SASS, reste à passer les noms de classe en BEM
+
+## 26 Novembre 2024 15h
+
+Passage des noms de classe en BEM pour faciliter l'usage du SASS
