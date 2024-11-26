@@ -1,0 +1,24 @@
+.section_matos {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    flex-direction: column;
+    gap: 2rem;
+}
+
+.section_matos a {
+    text-decoration: underline;
+}
+
+.section_matos p {
+    text-align: justify;
+    width: 40rem;
+}
+
+.section_matos h2 {
+    padding-top: 10rem;
+}
+
+.first_section_matos {
+    padding-bottom: 0;
+}
