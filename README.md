@@ -13,3 +13,7 @@ Passage des noms de classe en BEM pour faciliter l'usage du SASS
 ## 26 Novembre 2024 15h05
 
 Changement de pseudo pour le commit
+
+## 26 Novembre 2024 21h00
+
+Suppression de animate.css et particle.css et intégration de scrollreveal.js
