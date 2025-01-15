@@ -51,6 +51,18 @@
   gap: 4rem;
 }
 
+.calendar {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 10rem;
+  flex-direction: column;
+}
+.calendar__title {
+  text-align: center;
+  margin-bottom: 3rem;
+}
+
 .intro {
   display: flex;
   justify-content: flex-end;
@@ -189,6 +201,21 @@ a {
 .footer__links_element {
   color: #000000;
   font-size: 1.5rem;
+}
+
+.plans__ressources {
+  margin-top: 5rem;
+  font-size: 1.5rem;
+}
+.plans__ressources li {
+  margin-top: 1rem;
+}
+
+.plans {
+  margin-top: 10rem;
+}
+.plans__title {
+  text-align: center;
 }
 
 /*# sourceMappingURL=style.css.map */
